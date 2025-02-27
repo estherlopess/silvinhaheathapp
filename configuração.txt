@@ -1,0 +1,25 @@
+git config --global user.email laislobato210109@gmail.com
+git config --global user.name laislobato 
+
+abrir terminal - ctrl + '
+
+Criar um projeto native expo:
+npx create-expo-app@latest SilvinhaHealthApp --template blank
+
+cd SilvinhaHealthApp
+
+Entensão PEsquisa react -> ES7+ 
+
+
+salvar via terminal:
+git add nome_arquivo.jr
+git commit -m "Defina a alteração feita com um titulo"
+git push
+
+git status
+
+ATUALIZAR PACOTES DO NODE
+npm i
+
+executar o prohjeto
+npx expo start --localhost --android
